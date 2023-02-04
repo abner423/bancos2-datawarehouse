@@ -61,7 +61,7 @@ CREATE TABLE dim_despesa (
     valorLiquido float,
     descricao TEXT,
     dataEmissao TEXT,
-    anoDespesa INT,
+    anoDespesa INT
 );
 
 CREATE TABLE fato_gastos (
